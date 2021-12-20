@@ -8,6 +8,7 @@ public class SkillsDevelopmentProgram {
 	
 	public static void main(String[] args) {
 		System.out.println("Welcome to the SDP");
+		System.out.println("Didonehal N Gowda");
 		logMessage();
 	}
 	
